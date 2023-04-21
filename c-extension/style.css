@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    margin: 50px;
+}
+
+main input {
+    font-size: 16px;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid green;
+}
+
+#save {
+    display: block;
+    margin-top: 5px;
+    border: 2px solid green;
+    font-size: 18px;
+    padding: 6px;
+    background-color: white;
+}
+
+#leads ul {
+    text-decoration: none;
+    margin-top: 20px;
+    color: green;
+}
+
+#leads li {
+    font-size: 24px;
+    list-style: none;
+}
